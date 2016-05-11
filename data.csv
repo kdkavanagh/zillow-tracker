@@ -1,0 +1,426 @@
+epoch,zpid,addr,zipCode,price,status,beds,baths,sqft
+1462928075,2098997309,2837 N Springfield Ave  Chicago  IL 60618,60618,$474900,for-sale,7 beds,4 baths,-- sqft
+1462928075,3687227,2311 N Lawndale Ave  Chicago  IL 60647,60647,$429000,for-sale,4 beds,2 baths,1596 sqft
+1462928075,60201040,4048 N Clark St UNIT I  Chicago  IL 60613,60613,$544900,for-sale,3 beds,3 baths,1952 sqft
+1462928075,2103522194,4232 N Drake Ave  Chicago  IL 60618,60618,$543000,for-sale,4 beds,4 baths,2300 sqft
+1462928075,70461273,537 W Belmont Ave # G  Chicago  IL 60657,60657,$310000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2098678651,2900 W Shakespeare Ave # 10  Chicago  IL 60647,60647,$489900,for-sale,2 beds,2 baths,-- sqft
+1462928075,80851825,635 W Elm St # C  Chicago  IL 60610,60610,$322900,for-sale,2 beds,1.5 baths,1111 sqft
+1462928075,60201913,1845 N Sheffield Ave # 2  Chicago  IL 60614,60614,$410000,for-sale,2 beds,2 baths,-- sqft
+1462928075,61960064,2523 N Halsted St # 1  Chicago  IL 60614,60614,$425000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3843386,1430 N Astor St APT 10C  Chicago  IL 60610,60610,$549000,for-sale,3 beds,3 baths,1600 sqft
+1462928075,3687984,1644 N Springfield Ave  Chicago  IL 60647,60647,$400000,for-sale,6 beds,4 baths,3500 sqft
+1462928075,2145056021,1712 W Le Moyne St # 1E  Chicago  IL 60622,60622,$525000,for-sale,3 beds,3 baths,-- sqft
+1462928075,49918806,1751 N Western Ave APT 207  Chicago  IL 60647,60647,$359900,for-sale,2 beds,2 baths,1000 sqft
+1462928075,60262208,1816 N Rockwell St UNIT E  Chicago  IL 60647,60647,$539900,for-sale,4 beds,3 baths,2200 sqft
+1462928075,2102007257,2040 N Stave St  Chicago  IL 60647,60647,$409000,for-sale,4 beds,3 baths,-- sqft
+1462928075,3688255,1719 N Sawyer Ave  Chicago  IL 60647,60647,$419000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,2098670707,(Undisclosed Address)  Chicago  IL 60610,60610,$449900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2098671443,4255 N Lawndale Ave  Chicago  IL 60618,60618,$360000,for-sale,4 beds,2 baths,2000 sqft
+1462928075,2137141952,2527 N Springfield Ave  Chicago  IL 60647,60647,$515000,for-sale,6 beds,2 baths,-- sqft
+1462928075,65564563,33 W Delaware Pl APT 15A  Chicago  IL 60610,60610,$399000,for-sale,2 beds,2 baths,-- sqft
+1462928075,99346349,2637 W Cortez St # 2  Chicago  IL 60622,60622,$429900,for-sale,2 beds,2.5 baths,1250 sqft
+1462928075,65546603,2042 N Clark St APT 4N  Chicago  IL 60614,60614,$545000,for-sale,2 beds,2 baths,1500 sqft
+1462928075,62010837,1509 W Diversey Pkwy # A  Chicago  IL 60614,60614,$419000,for-sale,2 beds,3 baths,1700 sqft
+1462928075,3728753,2730 N Greenview Ave APT M  Chicago  IL 60614,60614,$525000,for-sale,3 beds,3 baths,2244 sqft
+1462928075,3645749,3341 W Berteau Ave  Chicago  IL 60618,60618,$499900,for-sale,4 beds,3 baths,2000 sqft
+1462928075,3668393,2935 W Roscoe St  Chicago  IL 60618,60618,$435000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,89962576,2108 N California Ave APT 2R  Chicago  IL 60647,60647,$365000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3855493,1415 N Dearborn St APT 27D  Chicago  IL 60610,60610,$350000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,2098658776,2848 N Damen Ave  Chicago  IL 60618,60618,$525000,for-sale,6 beds,3 baths,-- sqft
+1462928075,89879655,3057 N Clybourn Ave # 2N  Chicago  IL 60618,60618,$375000,for-sale,2 beds,2 baths,-- sqft
+1462928075,80840776,901 N Hermitage Ave # 3  Chicago  IL 60622,60622,$499000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,65550449,1937 N Dayton St # G  Chicago  IL 60614,60614,$324900,for-sale,2 beds,2 baths,1 sqft
+1462928075,3723965,2707 N Halsted St # 3  Chicago  IL 60614,60614,$549000,for-sale,3 beds,2 baths,2240 sqft
+1462928075,49918480,2427 N Seminary Ave # 1  Chicago  IL 60614,60614,$390000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,60266014,1517 N Hudson Ave APT 3  Chicago  IL 60610,60610,$460000,for-sale,2 beds,2 baths,1600 sqft
+1462928075,89924470,744 W Fullerton Ave APT 501  Chicago  IL 60614,60614,$550000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2105252745,2010 N Kenmore Ave # A  Chicago  IL 60614,60614,$489000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3722593,320 W Oakdale Ave APT 801  Chicago  IL 60657,60657,$425500,for-sale,3 beds,2 baths,2000 sqft
+1462928075,89973716,1921 W Diversey Pkwy APT 502  Chicago  IL 60614,60614,$549000,for-sale,3 beds,2 baths,1800 sqft
+1462928075,3688825,2102 N Bingham St  Chicago  IL 60647,60647,$359900,for-sale,2 beds,2 baths,1500 sqft
+1462928075,62012405,1058 N Paulina St APT 3  Chicago  IL 60622,60622,$419000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2098667940,1721 W George St # 52  Chicago  IL 60657,60657,$425000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3712440,1140 W Newport Ave APT C  Chicago  IL 60657,60657,$349900,for-sale,2 beds,2 baths,1350 sqft
+1462928075,62008383,2446 W Homer St APT 3  Chicago  IL 60647,60647,$419900,for-sale,3 beds,2 baths,1900 sqft
+1462928075,49911751,2117 W Evergreen Ave # 1SE  Chicago  IL 60622,60622,$375000,for-sale,2 beds,2 baths,1600 sqft
+1462928075,58361479,444 W Fullerton Pkwy APT 1309  Chicago  IL 60614,60614,$349900,for-sale,3 beds,1.5 baths,-- sqft
+1462928075,87727339,2709 N Mildred Ave APT 1B  Chicago  IL 60614,60614,$350000,for-sale,2 beds,2 baths,-- sqft
+1462928075,89919445,1956 W Bradley Pl APT 2W  Chicago  IL 60613,60613,$389900,for-sale,3 beds,2 baths,-- sqft
+1462928075,117890639,811 W Bradley Pl APT 2  Chicago  IL 60613,60613,$349000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3737453,601 W Belden Ave APT 4B  Chicago  IL 60614,60614,$469000,for-sale,2 beds,1.5 baths,-- sqft
+1462928075,2101328948,3401 N Janssen Ave APT E  Chicago  IL 60657,60657,$465000,for-sale,3 beds,2 baths,-- sqft
+1462928075,2098723217,1535 N Wicker Park Ave # GW  Chicago  IL 60622,60622,$380000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2098723979,1450 N Artesian Ave # 2  Chicago  IL 60622,60622,$319000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,80826075,1510 N Cleveland Ave APT 2  Chicago  IL 60610,60610,$537500,for-sale,2 beds,2 baths,-- sqft
+1462928075,58359703,2161 N California Ave APT 304  Chicago  IL 60647,60647,$359000,for-sale,2 beds,2 baths,1450 sqft
+1462928075,63693491,2861 W Palmer St APT GW  Chicago  IL 60647,60647,$325000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,3723183,340 W Diversey Pkwy APT 1120  Chicago  IL 60657,60657,$375000,for-sale,3 beds,2 baths,1400 sqft
+1462928075,2114060950,1401 W Henderson St # 1E  Chicago  IL 60657,60657,$399999,for-sale,2 beds,2 baths,1300 sqft
+1462928075,89971901,3021 W Armitage Ave APT 402  Chicago  IL 60647,60647,$349900,for-sale,2 beds,2 baths,1174 sqft
+1462928075,80828824,3131 W Logan Blvd APT 2B  Chicago  IL 60647,60647,$365000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,63695070,3820 N Clark St # 2  Chicago  IL 60613,60613,$459900,for-sale,2 beds,2 baths,1500 sqft
+1462928075,3669916,3072 N Elbridge Ave  Chicago  IL 60618,60618,$325500,for-sale,3 beds,3 baths,1408 sqft
+1462928075,80825627,708 W Barry Ave APT 1R  Chicago  IL 60657,60657,$420000,for-sale,2 beds,2 baths,-- sqft
+1462928075,89970444,3734 N Wilton Ave APT 2N  Chicago  IL 60613,60613,$379999,for-sale,2 beds,2 baths,1200 sqft
+1462928075,80823108,2131 N Larrabee St APT 6102  Chicago  IL 60614,60614,$335000,for-sale,2 beds,2 baths,-- sqft
+1462928075,89893065,2940 N Damen Ave APT 2N  Chicago  IL 60618,60618,$399900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3724472,2700 N Hampden Ct APT 15D  Chicago  IL 60614,60614,$330000,for-sale,2 beds,2 baths,-- sqft
+1462928075,58362597,1955 N Leavitt St APT 4B  Chicago  IL 60647,60647,$475000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,2098719073,1411 N Maplewood Ave  Chicago  IL 60622,60622,$539000,for-sale,5 beds,3 baths,-- sqft
+1462928075,60201552,1529 W Montana St # 2  Chicago  IL 60614,60614,$425000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3722312,360 W Wellington Ave APT 15B  Chicago  IL 60657,60657,$309900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2098724230,630 W Oakdale Ave UNIT 1  Chicago  IL 60657,60657,$539000,for-sale,2 beds,2 baths,1800 sqft
+1462928075,3844756,1313 N Ritchie Ct APT 904  Chicago  IL 60610,60610,$434000,for-sale,2 beds,2 baths,-- sqft
+1462928075,58362792,2150 N Racine Ave # G  Chicago  IL 60614,60614,$465000,for-sale,2 beds,2 baths,1350 sqft
+1462928075,2098707044,1621 N Mozart St APT 2N  Chicago  IL 60647,60647,$334900,for-sale,2 beds,2 baths,1250 sqft
+1462928075,3793763,3554 W Beach Ave  Chicago  IL 60651,60651,$374900,for-sale,3 beds,3 baths,1286 sqft
+1462928075,2139891966,3103 N Kimball Ave  Chicago  IL 60618,60618,$379900,for-sale,4 beds,4 baths,1575 sqft
+1462928075,3724140,623 W Drummond Pl APT 7  Chicago  IL 60614,60614,$519000,for-sale,3 beds,2.1 baths,2200 sqft
+1462928075,70464195,230 W Division St APT 1005  Chicago  IL 60610,60610,$509000,for-sale,2 beds,2 baths,1595 sqft
+1462928075,61959835,1555 W School St APT 2D  Chicago  IL 60657,60657,$399900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,89906014,1744 W Henderson St # 2  Chicago  IL 60657,60657,$385000,for-sale,2 beds,2 baths,-- sqft
+1462928075,89887476,2703 N Wilton Ave # 3  Chicago  IL 60614,60614,$389900,for-sale,2 beds,2 baths,1100 sqft
+1462928075,60265135,2746 N Wolcott Ave APT 2N  Chicago  IL 60614,60614,$350000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3722204,339 W Barry Ave APT 15A  Chicago  IL 60657,60657,$530000,for-sale,2 beds,2 baths,1800 sqft
+1462928075,80836790,1456 N Greenview Ave APT 3W  Chicago  IL 60642,60642,$399000,for-sale,2 beds,2.5 baths,1500 sqft
+1462928075,2098759455,703 W Buena Ave # 1A  Chicago  IL 60613,60613,$399000,for-sale,3 beds,2 baths,1800 sqft
+1462928075,2123008766,3045 N Avers Ave  Chicago  IL 60618,60618,$499000,for-sale,5 beds,3 baths,-- sqft
+1462928075,3721781,3150 N Lake Shore Dr APT 11B  Chicago  IL 60657,60657,$459000,for-sale,2 beds,2 baths,1650 sqft
+1462928075,87708718,2329 W Altgeld St APT 1W  Chicago  IL 60647,60647,$469995,for-sale,3 beds,3 baths,-- sqft
+1462928075,58361963,3045 N Greenview Ave APT 203  Chicago  IL 60657,60657,$390000,for-sale,2 beds,2 baths,1100 sqft
+1462928075,80843061,1319 N Wood St APT 2A  Chicago  IL 60622,60622,$439900,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2098721401,1560 N Sandburg Ter APT 3202  Chicago  IL 60610,60610,$525000,for-sale,2 beds,2 baths,-- sqft
+1462928075,87723154,1912 W Belmont Ave # 3  Chicago  IL 60657,60657,$485000,for-sale,2 beds,2 baths,1450 sqft
+1462928075,87717613,4301 N Sheridan Rd APT 201  Chicago  IL 60613,60613,$325000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3645149,4249 N Ridgeway Ave  Chicago  IL 60618,60618,$550000,for-sale,4 beds,4.5 baths,3185 sqft
+1462928075,3645903,3330 W Cuyler Ave  Chicago  IL 60618,60618,$425000,for-sale,3 beds,3 baths,883 sqft
+1462928075,65559432,825 W Cuyler Ave UNIT 2E  Chicago  IL 60613,60613,$379000,for-sale,2 beds,2 baths,1000 sqft
+1462928075,2114561684,2923 N Harding Ave  Chicago  IL 60618,60618,$462500,for-sale,5 beds,3 baths,2000 sqft
+1462928075,2131583669,1638 N Kedzie Ave  Chicago  IL 60647,60647,$429000,for-sale,5 beds,2 baths,-- sqft
+1462928075,2134603870,1938 N Drake Ave  Chicago  IL 60647,60647,$399900,for-sale,8 beds,4 baths,1600 sqft
+1462928075,2098769903,2624 N Springfield Ave  Chicago  IL 60647,60647,$375000,for-sale,5 beds,3 baths,-- sqft
+1462928075,80817321,947 N Howe St  Chicago  IL 60610,60610,$451500,for-sale,2 beds,2 baths,1200 sqft
+1462928075,58362013,2840 N Lincoln Ave APT H6  Chicago  IL 60657,60657,$399900,for-sale,3 beds,2 baths,1470 sqft
+1462928075,2118049039,1375 N Milwaukee Ave APT 3R  Chicago  IL 60622,60622,$379000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3718157,728 W Aldine Ave APT 1E  Chicago  IL 60657,60657,$500000,for-sale,3 beds,3 baths,2182 sqft
+1462928075,89947076,466 W Elm St  Chicago  IL 60610,60610,$550000,for-sale,3 beds,3 baths,-- sqft
+1462928075,70463998,1444 N Orleans St APT 5K  Chicago  IL 60610,60610,$549000,for-sale,3 beds,2 baths,1850 sqft
+1462928075,3852758,1435 N North Park Ave # 2  Chicago  IL 60610,60610,$449900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2140028356,923 W Wrightwood Ave  Chicago  IL 60614,60614,$529000,for-sale,2 beds,2 baths,-- sqft
+1462928075,70462237,2128 N Hudson Ave APT 102  Chicago  IL 60614,60614,$359000,for-sale,2 beds,2 baths,1100 sqft
+1462928075,3738393,345 W Fullerton Pkwy APT 1005  Chicago  IL 60614,60614,$329900,for-sale,2 beds,2 baths,1100 sqft
+1462928075,80856596,1506 N Sedgwick St APT 2S  Chicago  IL 60610,60610,$485000,for-sale,2 beds,2 baths,1500 sqft
+1462928075,3668019,3601 N Sacramento Ave  Chicago  IL 60618,60618,$329000,for-sale,5 beds,3 baths,1877 sqft
+1462928075,49911699,1211 N Honore St # 2  Chicago  IL 60622,60622,$425000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,3737210,453 W Fullerton Pkwy APT 2E  Chicago  IL 60614,60614,$479900,for-sale,2 beds,1.5 baths,-- sqft
+1462928075,3727742,2843 N Lincoln Ave APT 204  Chicago  IL 60657,60657,$465000,for-sale,3 beds,2 baths,1800 sqft
+1462928075,70465388,1022 N Paulina St APT 2  Chicago  IL 60622,60622,$410000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,63696213,2045 W Concord Pl APT 402  Chicago  IL 60647,60647,$459000,for-sale,2 beds,2 baths,1325 sqft
+1462928075,2119063267,253 E Delaware Pl # 18AB  Chicago  IL 60611,60611,$385000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,3718599,415 W Aldine Ave APT 2B  Chicago  IL 60657,60657,$329900,for-sale,2 beds,2 baths,2000 sqft
+1462928075,2098841216,2044 N Winchester Ave APT 2F  Chicago  IL 60614,60614,$379900,for-sale,2 beds,2.5 baths,1500 sqft
+1462928075,101426872,1624 W Grace St APT 2  Chicago  IL 60613,60613,$349900,for-sale,2 beds,2 baths,-- sqft
+1462928075,3712793,3213 N Wilton Ave APT D  Chicago  IL 60657,60657,$399000,for-sale,2 beds,2 baths,2394 sqft
+1462928075,3716500,3550 N Lake Shore Dr APT 2716  Chicago  IL 60657,60657,$305000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,87715847,1347 W Eddy St APT 306  Chicago  IL 60657,60657,$335000,for-sale,2 beds,2 baths,-- sqft
+1462928075,70462224,2159 N Lincoln Ave # A2  Chicago  IL 60614,60614,$479900,for-sale,2 beds,3 baths,1200 sqft
+1462928075,3670009,3067 N Gresham Ave  Chicago  IL 60618,60618,$375000,for-sale,3 beds,3 baths,882 sqft
+1462928075,3714969,729 W Waveland Ave APT D  Chicago  IL 60613,60613,$550000,for-sale,3 beds,2.5 baths,1900 sqft
+1462928075,3688105,1928 N Saint Louis Ave  Chicago  IL 60647,60647,$350000,for-sale,4 beds,2 baths,2926 sqft
+1462928075,87716486,1824 N Wolcott Ave APT 1R  Chicago  IL 60622,60622,$389900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2098960104,71 E Division St APT 804  Chicago  IL 60610,60610,$314000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3728362,2950 N Halsted St # D  Chicago  IL 60657,60657,$399000,for-sale,2 beds,2 baths,1600 sqft
+1462928075,58361306,435 W Oakdale Ave APT 2F  Chicago  IL 60657,60657,$309000,for-sale,2 beds,2 baths,-- sqft
+1462928075,124869890,3820 N Ashland Ave UNIT 3S  Chicago  IL 60613,60613,$549900,for-sale,3 beds,2 baths,1500 sqft
+1462928075,80817717,917 N Kingsbury St # 917  Chicago  IL 60610,60610,$459000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2099032655,946 W Sheridan Rd # 1C  Chicago  IL 60613,60613,$319900,for-sale,2 beds,2.5 baths,1700 sqft
+1462928075,3849360,900 N Lake Shore Dr APT 403  Chicago  IL 60611,60611,$374900,for-sale,2 beds,2 baths,1179 sqft
+1462928075,80829666,807 W Lill Ave UNIT 401  Chicago  IL 60614,60614,$519000,for-sale,3 beds,2.5 baths,1850 sqft
+1462928075,87698199,907 W School St APT 1B  Chicago  IL 60657,60657,$349000,for-sale,2 beds,2 baths,1000 sqft
+1462928075,2098816897,1748 W Newport Ave  Chicago  IL 60657,60657,$499900,for-sale,3 beds,3 baths,-- sqft
+1462928075,3669830,3143 N Kimball Ave  Chicago  IL 60618,60618,$529000,for-sale,5 beds,3 baths,1900 sqft
+1462928075,3731977,1760 W Wrightwood Ave APT 305  Chicago  IL 60614,60614,$430000,for-sale,2 beds,2 baths,1625 sqft
+1462928075,3860018,1750 W Julian St APT 5  Chicago  IL 60622,60622,$495000,for-sale,3 beds,2 baths,-- sqft
+1462928075,3858622,1030 N State St APT 16B  Chicago  IL 60610,60610,$439000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3738539,345 W Fullerton Pkwy APT 2902  Chicago  IL 60614,60614,$419000,for-sale,2 beds,2 baths,1100 sqft
+1462928075,63694812,3944 N Claremont Ave APT 401  Chicago  IL 60618,60618,$325000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2098921496,2442 N Clybourn Ave # 4S  Chicago  IL 60614,60614,$519900,for-sale,3 beds,2 baths,1675 sqft
+1462928075,58362523,1601 W Altgeld St APT 3B  Chicago  IL 60614,60614,$439500,for-sale,3 beds,2 baths,1710 sqft
+1462928075,101239719,3125 W Fullerton Ave APT 505  Chicago  IL 60647,60647,$334900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2104012840,2853 N Elston Ave  Chicago  IL 60618,60618,$315100,for-sale,5 beds,4 baths,1 sqft
+1462928075,2098955810,2523 W Cullom Ave  Chicago  IL 60618,60618,$549000,for-sale,4 beds,2 baths,-- sqft
+1462928075,80833745,1422 N Noble St APT 1N  Chicago  IL 60642,60642,$424999,for-sale,3 beds,2.5 baths,1950 sqft
+1462928075,3669991,3039 N Elbridge Ave  Chicago  IL 60618,60618,$359900,for-sale,5 beds,3 baths,1128 sqft
+1462928075,65564920,2035 W Crystal St # 3  Chicago  IL 60622,60622,$449900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2098980471,1134 N California Ave # 202  Chicago  IL 60622,60622,$340000,for-sale,3 beds,3 baths,1800 sqft
+1462928075,2098917128,2322 W Augusta Blvd # 1A  Chicago  IL 60622,60622,$489900,for-sale,3 beds,2.1 baths,2500 sqft
+1462928075,3792915,1011 N Francisco Ave  Chicago  IL 60622,60622,$385000,for-sale,5 beds,2 baths,2000 sqft
+1462928075,54537242,1060 N Marshfield Ave APT 1S  Chicago  IL 60622,60622,$535000,for-sale,3 beds,3 baths,2400 sqft
+1462928075,3730426,929 W Wrightwood Ave # B  Chicago  IL 60614,60614,$449000,for-sale,2 beds,2.5 baths,1700 sqft
+1462928075,2098972261,2442 W Thomas St # 2  Chicago  IL 60622,60622,$389900,for-sale,2 beds,2 baths,-- sqft
+1462928075,65557920,4016 N California Ave # 2  Chicago  IL 60618,60618,$300000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3731778,2324 W Montana St  Chicago  IL 60647,60647,$540000,for-sale,2 beds,2 baths,1730 sqft
+1462928075,2145386883,1508 W Cullom Ave APT 1  Chicago  IL 60613,60613,$389000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2098902932,1530 W Haddon Ave APT 1E  Chicago  IL 60642,60642,$490000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3723115,330 W Diversey Pkwy APT 2607  Chicago  IL 60657,60657,$525000,for-sale,2 beds,2 baths,1138 sqft
+1462928075,60263150,705 W Buena Ave APT 2B  Chicago  IL 60613,60613,$399000,for-sale,3 beds,2 baths,1825 sqft
+1462928075,62009528,1466 W Warner Ave # 3E  Chicago  IL 60613,60613,$364000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2105089379,4321 N Kimball Ave  Chicago  IL 60618,60618,$324900,for-sale,6 beds,2 baths,2288 sqft
+1462928075,87705651,2437 W Cortez St # 1  Chicago  IL 60622,60622,$445000,for-sale,3 beds,3 baths,-- sqft
+1462928075,65559668,3326 N Ashland Ave # 2  Chicago  IL 60657,60657,$549900,for-sale,3 beds,2.5 baths,2000 sqft
+1462928075,2098852772,1436 N Artesian Ave  Chicago  IL 60622,60622,$450000,for-sale,5 beds,2 baths,-- sqft
+1462928075,2136499546,1340 N Rockwell St  Chicago  IL 60622,60622,$449000,for-sale,5 beds,2 baths,2790 sqft
+1462928075,2098814178,1906 N Springfield Ave  Chicago  IL 60647,60647,$459000,for-sale,4 beds,4 baths,2500 sqft
+1462928075,58361045,1408 W Belmont Ave # 4  Chicago  IL 60657,60657,$449000,for-sale,2 beds,2 baths,1500 sqft
+1462928075,63695018,1814 W Belmont Ave APT 2  Chicago  IL 60657,60657,$459000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,113951400,3025 N California Ave UNIT 4SE  Chicago  IL 60618,60618,$500000,for-sale,3 beds,2 baths,1700 sqft
+1462928075,89937209,2811 N Bell Ave UNIT 205  Chicago  IL 60618,60618,$369000,for-sale,2 beds,2 baths,1412 sqft
+1462928075,70449077,922 N Paulina St # 1R  Chicago  IL 60622,60622,$539900,for-sale,3 beds,4 baths,2200 sqft
+1462928075,63695716,923 W Altgeld St APT 4  Chicago  IL 60614,60614,$545000,for-sale,2 beds,2 baths,-- sqft
+1462928075,89954562,1521 N Artesian Ave # 2  Chicago  IL 60622,60622,$417500,for-sale,3 beds,2 baths,1650 sqft
+1462928075,3705063,672 W Irving Park Rd APT G1  Chicago  IL 60613,60613,$330000,for-sale,2 beds,1.5 baths,1400 sqft
+1462928075,2098833369,(Undisclosed Address)  Chicago  IL 60647,60647,$389900,for-sale,2 beds,2 baths,-- sqft
+1462928075,3849109,227 E Walton Pl APT 10W  Chicago  IL 60611,60611,$450000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,61960112,2762 N Lincoln Ave APT 302  Chicago  IL 60614,60614,$455000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2098882000,1513 W Diversey Pkwy # 2E  Chicago  IL 60614,60614,$550000,for-sale,2 beds,2 baths,-- sqft
+1462928075,63695254,833 W Roscoe St APT 2W  Chicago  IL 60657,60657,$489000,for-sale,2 beds,2 baths,1600 sqft
+1462928075,2098813588,3857 N St Louis Ave  Chicago  IL 60618,60618,$399000,for-sale,4 beds,2 baths,-- sqft
+1462928075,58365445,2111 W Division St APT 2  Chicago  IL 60622,60622,$509900,for-sale,2 beds,3 baths,1550 sqft
+1462928075,80858389,2800 N Orchard St APT 603  Chicago  IL 60657,60657,$400000,for-sale,2 beds,2 baths,1150 sqft
+1462928075,3712984,71 E Division St APT 1503  Chicago  IL 60610,60610,$309000,for-sale,2 beds,2 baths,1045 sqft
+1462928075,2099026839,2736 N Ashland Ave # 2S  Chicago  IL 60614,60614,$499000,for-sale,2 beds,2 baths,1460 sqft
+1462928075,58359309,4232 N Harding Ave APT 1S  Chicago  IL 60618,60618,$409000,for-sale,3 beds,3 baths,2800 sqft
+1462928075,3703721,4250 N Marine Dr APT 922  Chicago  IL 60613,60613,$325000,for-sale,2 beds,2 baths,1450 sqft
+1462928075,2098938005,1748 N Albany Ave  Chicago  IL 60647,60647,$539900,for-sale,4 beds,2 baths,-- sqft
+1462928075,87695504,2928 N Damen Ave # 1  Chicago  IL 60618,60618,$524900,for-sale,3 beds,3 baths,-- sqft
+1462928075,2105663934,3750 N Lake Shore Dr APT 4B  Chicago  IL 60613,60613,$524900,for-sale,2 beds,2.5 baths,-- sqft
+1462928075,2098840985,1637 N Washtenaw Ave  Chicago  IL 60647,60647,$499900,for-sale,4 beds,2 baths,-- sqft
+1462928075,3731087,1635 W Belmont Ave APT 502  Chicago  IL 60657,60657,$469900,for-sale,2 beds,2 baths,1538 sqft
+1462928075,2132825237,1753 N Drake Ave  Chicago  IL 60647,60647,$499900,for-sale,5 beds,3 baths,-- sqft
+1462928075,2130894784,1823 N Lawndale Ave  Chicago  IL 60647,60647,$334990,for-sale,5 beds,2 baths,-- sqft
+1462928075,2098793482,2650 N Harding Ave  Chicago  IL 60647,60647,$459000,for-sale,6 beds,2 baths,-- sqft
+1462928075,2098824537,3455 N Whipple St  Chicago  IL 60618,60618,$479900,for-sale,3 beds,3 baths,2242 sqft
+1462928075,113957195,2221 W Belmont Ave UNIT 302  Chicago  IL 60618,60618,$465000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2107577416,2537 N Harding Ave  Chicago  IL 60647,60647,$425000,for-sale,3 beds,2 baths,-- sqft
+1462928075,2129394657,3006 N Haussen Ct  Chicago  IL 60618,60618,$499900,for-sale,4 beds,3 baths,-- sqft
+1462928075,87701076,2052 N Campbell Ave APT 1E  Chicago  IL 60647,60647,$325000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,87714075,1618 N Campbell Ave # 2  Chicago  IL 60647,60647,$319900,for-sale,2 beds,2 baths,1250 sqft
+1462928075,62012146,927 N Noble St APT 3  Chicago  IL 60622,60622,$300000,for-sale,2 beds,2 baths,1240 sqft
+1462928075,2101589339,859 N La Salle Dr # G  Chicago  IL 60610,60610,$489000,for-sale,3 beds,2.5 baths,1822 sqft
+1462928075,2099389949,4147 N Western Ave  Chicago  IL 60618,60618,$399999,for-sale,7 beds,3 baths,-- sqft
+1462928075,3739234,2007 N Sedgwick St APT 104  Chicago  IL 60614,60614,$340000,for-sale,2 beds,1.5 baths,800 sqft
+1462928075,3728123,3045 N Kenmore Ave APT 2R  Chicago  IL 60657,60657,$389000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,70464480,1250 N La Salle Dr APT 714  Chicago  IL 60610,60610,$329900,for-sale,2 beds,2 baths,-- sqft
+1462928075,3738648,2335 N Commonwealth Ave APT 3G  Chicago  IL 60614,60614,$530000,for-sale,3 beds,2 baths,1750 sqft
+1462928075,101395786,1741 N Orleans St APT 2S  Chicago  IL 60614,60614,$449000,for-sale,2 beds,2 baths,1000 sqft
+1462928075,3711734,3636 N Wilton Ave  Chicago  IL 60613,60613,$525000,for-sale,3 beds,3 baths,1485 sqft
+1462928075,60266055,1448 N Orleans St APT 2B  Chicago  IL 60610,60610,$345000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2105021604,1800 W Diversey Pkwy  Chicago  IL 60614,60614,$479000,for-sale,3 beds,4 baths,1935 sqft
+1462928075,3733465,2012 W Saint Paul Ave APT 402  Chicago  IL 60647,60647,$444000,for-sale,2 beds,1.5 baths,-- sqft
+1462928075,2099220136,1 E Schiller St # 18  Chicago  IL 60610,60610,$480000,for-sale,3 beds,2 baths,2260 sqft
+1462928075,2099433741,2430 N Washtenaw #1-7  Chicago  IL 60647,60647,$399000,for-sale,3 beds,2 baths,1500 sqft
+1462928075,3667748,3813 N Whipple St  Chicago  IL 60618,60618,$399900,for-sale,3 beds,1.5 baths,2000 sqft
+1462928075,80809086,1523 N Wicker Park Ave APT 1  Chicago  IL 60622,60622,$469900,for-sale,3 beds,2 baths,1800 sqft
+1462928075,58365432,1822 W Ellen St APT 3  Chicago  IL 60622,60622,$425000,for-sale,3 beds,2 baths,-- sqft
+1462928075,65550946,1632 W Blackhawk St # 2  Chicago  IL 60622,60622,$465000,for-sale,3 beds,3 baths,1600 sqft
+1462928075,80836824,1251 N Bosworth Ave APT 1  Chicago  IL 60642,60642,$539500,for-sale,3 beds,2.5 baths,2400 sqft
+1462928075,3730438,911 W Wrightwood Ave # 2  Chicago  IL 60614,60614,$425000,for-sale,2 beds,2 baths,1067 sqft
+1462928075,3844481,1310 N Ritchie Ct APT 11D  Chicago  IL 60610,60610,$435000,for-sale,3 beds,2 baths,1550 sqft
+1462928075,101523729,2907 N Damen Ave # 3  Chicago  IL 60618,60618,$499000,for-sale,8 beds,6 baths,5000 sqft
+1462928075,2144204004,860 N Lake Shore Dr APT 3M  Chicago  IL 60611,60611,$489000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,3737522,549 W Belden Ave APT 2FE  Chicago  IL 60614,60614,$389000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,63697164,714 W Evergreen Ave # A  Chicago  IL 60610,60610,$399900,for-sale,2 beds,1.5 baths,1250 sqft
+1462928075,2099074850,2949 N Sheffield Ave # 1S  Chicago  IL 60657,60657,$374000,for-sale,3 beds,2 baths,-- sqft
+1462928075,63698202,1626 W Le Moyne St APT 1  Chicago  IL 60622,60622,$499900,for-sale,3 beds,2.5 baths,2200 sqft
+1462928075,80815256,2239 N Lister Ave APT 301  Chicago  IL 60614,60614,$369000,for-sale,3 beds,2 baths,-- sqft
+1462928075,70465228,1517 N Paulina St APT 1R  Chicago  IL 60622,60622,$375000,for-sale,2 beds,1.5 baths,1200 sqft
+1462928075,3669156,3039 W Diversey Ave  Chicago  IL 60647,60647,$465000,for-sale,3 beds,2 baths,1530 sqft
+1462928075,2099063190,740 W Fullerton Ave # 09186583  Chicago  IL 60614,60614,$469900,for-sale,2 beds,2 baths,1191 sqft
+1462928075,3727095,2400 N Lakeview Ave APT 1805  Chicago  IL 60614,60614,$359800,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3667448,3408 N Ridgeway Ave  Chicago  IL 60618,60618,$369900,for-sale,3 beds,2 baths,1196 sqft
+1462928075,2099250529,625 W Arlington Pl  Chicago  IL 60614,60614,$309900,for-sale,2 beds,2 baths,-- sqft
+1462928075,3704683,4170 N Marine Dr APT 8L  Chicago  IL 60613,60613,$339000,for-sale,3 beds,2 baths,1575 sqft
+1462928075,3736564,958 W Willow St APT 2  Chicago  IL 60614,60614,$475000,for-sale,2 beds,2 baths,3900 sqft
+1462928075,62009728,844 W Grace St APT 1  Chicago  IL 60613,60613,$389900,for-sale,3 beds,2 baths,-- sqft
+1462928075,2128481358,3750 N Lake Shore Dr APT 4C  Chicago  IL 60613,60613,$349000,for-sale,3 beds,3 baths,2200 sqft
+1462928075,3712328,3531 N Sheffield Ave APT 1S  Chicago  IL 60657,60657,$399900,for-sale,3 beds,2.5 baths,1730 sqft
+1462928075,2101840393,30 E Division St # 16D-E  Chicago  IL 60610,60610,$499000,for-sale,3 beds,3 baths,1800 sqft
+1462928075,49918392,2814 N Sheffield Ave APT 3N  Chicago  IL 60657,60657,$469900,for-sale,3 beds,2 baths,1600 sqft
+1462928075,65559588,1933 W Irving Park Rd APT 4  Chicago  IL 60613,60613,$479000,for-sale,3 beds,2 baths,1500 sqft
+1462928075,70465182,2130 W Division St APT 2W  Chicago  IL 60622,60622,$450000,for-sale,3 beds,2 baths,1600 sqft
+1462928075,3843685,1445 N State Pkwy APT 1904  Chicago  IL 60610,60610,$439900,for-sale,3 beds,2 baths,1612 sqft
+1462928075,65539234,3001 N Damen Ave UNIT 1  Chicago  IL 60618,60618,$324500,for-sale,2 beds,2 baths,1500 sqft
+1462928075,54534960,1960 W Diversey Pkwy # 2  Chicago  IL 60614,60614,$319900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,54534571,525 W Aldine Ave APT 202  Chicago  IL 60657,60657,$399000,for-sale,3 beds,2 baths,2000 sqft
+1462928075,3732640,2134 N Winchester Ave # A  Chicago  IL 60614,60614,$450000,for-sale,2 beds,1.5 baths,1800 sqft
+1462928075,3842945,1515 N Astor St APT 12B  Chicago  IL 60610,60610,$399000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2099256223,1619 N. Maplewood Ave  Chicago  IL 60647,60647,$398900,for-sale,8 beds,6 baths,-- sqft
+1462928075,3738303,2336 N Commonwealth Ave APT 201  Chicago  IL 60614,60614,$419000,for-sale,3 beds,2 baths,1400 sqft
+1462928075,70463174,2635 W Cortez St # 3  Chicago  IL 60622,60622,$339000,for-sale,2 beds,2 baths,1275 sqft
+1462928075,3854293,1555 N Sandburg Ter APT 303  Chicago  IL 60610,60610,$359000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,62011097,2241 N Oakley Ave # B  Chicago  IL 60647,60647,$549900,for-sale,3 beds,3 baths,2200 sqft
+1462928075,3668351,3327 N Troy St  Chicago  IL 60618,60618,$409999,for-sale,3 beds,2 baths,2400 sqft
+1462928075,3843484,1434 N Astor St # 3  Chicago  IL 60610,60610,$550000,for-sale,2 beds,2.5 baths,1600 sqft
+1462928075,2100285800,1622 N Mozart St APT 1N  Chicago  IL 60647,60647,$379900,for-sale,3 beds,3 baths,2200 sqft
+1462928075,70462020,2156 N Damen Ave STE 1  Chicago  IL 60647,60647,$430000,for-sale,3 beds,2.1 baths,1700 sqft
+1462928075,87706120,4038 N Kenmore Ave APT 3  Chicago  IL 60613,60613,$324900,for-sale,2 beds,2 baths,1250 sqft
+1462928075,89959302,2150 W North Ave APT 7  Chicago  IL 60647,60647,$459000,for-sale,2 beds,3 baths,2175 sqft
+1462928075,2100676955,1000 N Lake Shore Dr APT 2305  Chicago  IL 60611,60611,$545000,for-sale,3 beds,2 baths,1800 sqft
+1462928075,87706504,933 W Wolfram St # 2  Chicago  IL 60657,60657,$399900,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2125227872,1000 N Lake Shore Dr APT 2009  Chicago  IL 60611,60611,$435000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,3739749,1845 N Halsted St APT 2  Chicago  IL 60614,60614,$495000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3719817,523 W Belmont Ave # 2E  Chicago  IL 60657,60657,$349900,for-sale,2 beds,2 baths,1400 sqft
+1462928075,80834680,1449 N Maplewood Ave  Chicago  IL 60622,60622,$439000,for-sale,3 beds,2 baths,2000 sqft
+1462928075,3857839,1250 N Dearborn St APT 10E  Chicago  IL 60610,60610,$369900,for-sale,2 beds,2 baths,1100 sqft
+1462928075,2099479734,1428 W Cortez St UNIT 2W  Chicago  IL 60642,60642,$339000,for-sale,2 beds,2 baths,1100 sqft
+1462928075,3726564,2600 N Lakeview Ave APT 2E  Chicago  IL 60614,60614,$447500,for-sale,2 beds,2 baths,1500 sqft
+1462928075,2127207051,1150 N Lake Shore Dr # 1  Chicago  IL 60611,60611,$419000,for-sale,2 beds,2 baths,620 sqft
+1462928075,2099344742,1504 W Augusta Blvd  Chicago  IL 60642,60642,$309900,for-sale,2 beds,2 baths,-- sqft
+1462928075,70461499,1120 W Oakdale Ave APT 1F  Chicago  IL 60657,60657,$499900,for-sale,3 beds,2 baths,1750 sqft
+1462928075,87713217,1400 N Lake Shore Dr APT 15N  Chicago  IL 60610,60610,$529900,for-sale,3 beds,2 baths,1540 sqft
+1462928075,2099794643,2495 N Milwaukee Ave # 2N  Chicago  IL 60647,60647,$478900,for-sale,3 beds,2 baths,-- sqft
+1462928075,60201730,1735 W Diversey Pkwy APT 415  Chicago  IL 60614,60614,$339500,for-sale,2 beds,2 baths,-- sqft
+1462928075,54537178,1429 N Paulina St APT A  Chicago  IL 60622,60622,$520000,for-sale,3 beds,2.5 baths,2000 sqft
+1462928075,3846270,71 E Division St APT 1804  Chicago  IL 60610,60610,$312500,for-sale,2 beds,2 baths,-- sqft
+1462928075,70461423,2405 N Orchard St APT 1  Chicago  IL 60614,60614,$375000,for-sale,2 beds,2 baths,1100 sqft
+1462928075,3687413,3646 W Dickens Ave  Chicago  IL 60647,60647,$324900,for-sale,4 beds,2 baths,1850 sqft
+1462928075,58362745,1901 W Armitage Ave APT 1E  Chicago  IL 60622,60622,$514900,for-sale,3 beds,3 baths,2000 sqft
+1462928075,89923855,1430 W Irving Park Rd APT 2  Chicago  IL 60613,60613,$449900,for-sale,3 beds,2 baths,1800 sqft
+1462928075,3717046,653 W Cornelia Ave # G  Chicago  IL 60657,60657,$321900,for-sale,2 beds,2 baths,1600 sqft
+1462928075,3847011,100 E Bellevue Pl APT 11F  Chicago  IL 60611,60611,$490000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,58362163,2736 N Bosworth Ave  Chicago  IL 60614,60614,$495000,for-sale,3 beds,3 baths,2000 sqft
+1462928075,3733454,2012 W Saint Paul Ave APT 308  Chicago  IL 60647,60647,$547000,for-sale,2 beds,2 baths,1465 sqft
+1462928075,3845967,1150 N Lake Shore Dr APT 19H  Chicago  IL 60611,60611,$399000,for-sale,2 beds,2 baths,1410 sqft
+1462928075,3854305,1555 N Sandburg Ter APT 405  Chicago  IL 60610,60610,$474900,for-sale,3 beds,3 baths,1400 sqft
+1462928075,3721534,435 W Surf St APT 1B  Chicago  IL 60657,60657,$359900,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2143313388,1816 W Belmont Ave APT 3  Chicago  IL 60657,60657,$419000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2128115016,110 E Delaware Pl APT 401  Chicago  IL 60611,60611,$450000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,70460848,1930 W Belmont Ave # 1  Chicago  IL 60657,60657,$490000,for-sale,3 beds,2.5 baths,2400 sqft
+1462928075,2102748995,1616 N Spaulding Ave  Chicago  IL 60647,60647,$524500,for-sale,4 beds,3 baths,-- sqft
+1462928075,3712319,3519 N Sheffield Ave APT 2N  Chicago  IL 60657,60657,$475000,for-sale,2 beds,2 baths,1560 sqft
+1462928075,2099063346,2770 N Wolcott Ave # 09184250  Chicago  IL 60614,60614,$550000,for-sale,4 beds,2.5 baths,2200 sqft
+1462928075,3687352,3743 W Palmer St  Chicago  IL 60647,60647,$499000,for-sale,4 beds,2 baths,2000 sqft
+1462928075,3689003,1620 N Troy St  Chicago  IL 60647,60647,$375000,for-sale,5 beds,3 baths,1800 sqft
+1462928075,3845516,1216 N Astor St APT 1B  Chicago  IL 60610,60610,$549000,for-sale,2 beds,2 baths,2000 sqft
+1462928075,2099621903,1841 W Dickens Ave  Chicago  IL 60614,60614,$459900,for-sale,4 beds,3 baths,-- sqft
+1462928075,121075133,2153 W Belmont Ave UNIT 4  Chicago  IL 60618,60618,$409900,for-sale,3 beds,2 baths,1700 sqft
+1462928075,3705084,662 W Irving Park Rd APT J2  Chicago  IL 60613,60613,$359000,for-sale,3 beds,1.5 baths,1600 sqft
+1462928075,3793717,3517 W Pierce Ave  Chicago  IL 60651,60651,$375000,for-sale,5 beds,3 baths,3000 sqft
+1462928075,3855324,1440 N State Pkwy APT 3A  Chicago  IL 60610,60610,$539900,for-sale,2 beds,2 baths,1700 sqft
+1462928075,2130772445,1800 N Richmond St  Chicago  IL 60647,60647,$399000,for-sale,8 beds,3 baths,-- sqft
+1462928075,2099769948,4003 N Greenview Ave # 2N  Chicago  IL 60613,60613,$425000,for-sale,3 beds,2 baths,1750 sqft
+1462928075,3846245,71 E Division St APT 1403  Chicago  IL 60610,60610,$360000,for-sale,2 beds,2 baths,1045 sqft
+1462928075,49917826,1433 W Belle Plaine Ave APT 3W  Chicago  IL 60613,60613,$549000,for-sale,3 beds,3 baths,-- sqft
+1462928075,2100312174,2820 N. Mozart Street  Chicago  IL 60618,60618,$475000,for-sale,6 beds,3 baths,-- sqft
+1462928075,70448390,1908 W Irving Park Rd APT 204  Chicago  IL 60613,60613,$389000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3730222,1133 W Drummond Pl APT A8  Chicago  IL 60614,60614,$364900,for-sale,2 beds,1.5 baths,1200 sqft
+1462928075,65561829,1617 W Barry Ave APT 1E  Chicago  IL 60657,60657,$539900,for-sale,3 beds,3 baths,-- sqft
+1462928075,3849096,227 E Walton Pl APT 2E  Chicago  IL 60611,60611,$424900,for-sale,2 beds,2 baths,1400 sqft
+1462928075,58362085,3047 N Racine Ave # 2  Chicago  IL 60657,60657,$419900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2141886094,4138 N Drake Ave  Chicago  IL 60618,60618,$385000,for-sale,5 beds,4 baths,2000 sqft
+1462928075,2136923091,2535 W Lyndale St  Chicago  IL 60647,60647,$430000,for-sale,6 beds,2 baths,3568 sqft
+1462928075,3712457,3453 N Racine Ave APT 1N  Chicago  IL 60657,60657,$545000,for-sale,3 beds,2.5 baths,2000 sqft
+1462928075,63695320,3631 N Halsted St APT 305  Chicago  IL 60613,60613,$419000,for-sale,2 beds,2 baths,1300 sqft
+1462928075,87702205,3414 N Sheffield Ave APT 3  Chicago  IL 60657,60657,$474000,for-sale,3 beds,2 baths,1700 sqft
+1462928075,2106200656,2256 N Kimball Ave  Chicago  IL 60647,60647,$345000,for-sale,2 beds,3 baths,-- sqft
+1462928075,119089918,860 W Blackhawk St UNIT 202  Chicago  IL 60642,60642,$499900,for-sale,2 beds,2 baths,1416 sqft
+1462928075,2145870548,3921 N Sawyer Ave  Chicago  IL 60618,60618,$399900,for-sale,5 beds,3 baths,-- sqft
+1462928075,54533925,3900 N Claremont Ave APT 403  Chicago  IL 60618,60618,$399000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2099926104,2702 N Wilton Ave  Chicago  IL 60614,60614,$535000,for-sale,4 beds,2 baths,-- sqft
+1462928075,2101141600,4119 N Western Ave  Chicago  IL 60618,60618,$494000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3710828,3920 N Greenview Ave APT 3F  Chicago  IL 60613,60613,$465000,for-sale,3 beds,2 baths,2047 sqft
+1462928075,3666924,3620 N Central Park Ave  Chicago  IL 60618,60618,$539500,for-sale,4 beds,3.5 baths,2200 sqft
+1462928075,3718835,421 W Melrose St APT 12C  Chicago  IL 60657,60657,$525000,for-sale,3 beds,2 baths,2020 sqft
+1462928075,49911808,1540 N Greenview Ave # K  Chicago  IL 60642,60642,$375000,for-sale,2 beds,2 baths,1392 sqft
+1462928075,2143438301,3470 N Lake Shore Dr APT 8A  Chicago  IL 60657,60657,$450000,for-sale,2 beds,2 baths,1750 sqft
+1462928075,2100808264,2431 W Dakin St  Chicago  IL 60618,60618,$499000,for-sale,4 beds,2 baths,-- sqft
+1462928075,2141662344,2647 N Harding Ave  Chicago  IL 60647,60647,$369900,for-sale,4 beds,2 baths,-- sqft
+1462928075,65561773,2256 W Wolfram St  Chicago  IL 60618,60618,$449000,for-sale,2 beds,3 baths,1828 sqft
+1462928075,80823616,1455 W Thomas St APT 4E  Chicago  IL 60642,60642,$529999,for-sale,3 beds,2 baths,1600 sqft
+1462928075,3793097,2737 W Cortez St  Chicago  IL 60622,60622,$450000,for-sale,4 beds,2 baths,1800 sqft
+1462928075,87705889,2451 W Augusta Blvd # 1  Chicago  IL 60622,60622,$441900,for-sale,3 beds,3 baths,2400 sqft
+1462928075,2099063191,1801 W Diversey Pkwy # 09186482  Chicago  IL 60614,60614,$550000,for-sale,3 beds,2 baths,2200 sqft
+1462928075,3688217,1734 N Kimball Ave  Chicago  IL 60647,60647,$509900,for-sale,3 beds,2.5 baths,798 sqft
+1462928075,3687434,2044 N Hamlin Ave  Chicago  IL 60647,60647,$414900,for-sale,6 beds,3 baths,3000 sqft
+1462928075,2101803128,1443 N Washtenaw North Ave # 1R  Chicago  IL 60622,60622,$339900,for-sale,3 beds,2.1 baths,2000 sqft
+1462928075,80848987,3530 N Reta Ave APT 1F  Chicago  IL 60657,60657,$374900,for-sale,2 beds,2 baths,-- sqft
+1462928075,87725471,2801 N Oakley Ave APT 208  Chicago  IL 60618,60618,$359900,for-sale,2 beds,2 baths,-- sqft
+1462928075,2099349670,4310 N Lawndale Ave  Chicago  IL 60618,60618,$350000,for-sale,5 beds,2 baths,1200 sqft
+1462928075,89903647,2157 W Division St APT 302  Chicago  IL 60622,60622,$525000,for-sale,2 beds,2 baths,-- sqft
+1462928075,80825888,3730 N Lake Shore Dr APT 8B  Chicago  IL 60613,60613,$375000,for-sale,3 beds,2.5 baths,2100 sqft
+1462928075,65561587,3108 N Racine Ave # 3  Chicago  IL 60657,60657,$474900,for-sale,2 beds,2 baths,-- sqft
+1462928075,62008164,2641 N Talman Ave # 1  Chicago  IL 60647,60647,$435000,for-sale,3 beds,3 baths,2200 sqft
+1462928075,3858278,1230 N State Pkwy APT 18A  Chicago  IL 60610,60610,$485000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,3736571,1875 N Sheffield Ave APT C  Chicago  IL 60614,60614,$484500,for-sale,2 beds,2 baths,1300 sqft
+1462928075,2100954758,1120 N Lake Shore Dr # 11C  Chicago  IL 60611,60611,$445000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,2099103938,2133 N Campbell Ave # 1C  Chicago  IL 60647,60647,$525000,for-sale,3 beds,3 baths,1700 sqft
+1462928075,2146370939,3750 N Lake Shore Dr APT 13D  Chicago  IL 60613,60613,$550000,for-sale,3 beds,3 baths,2000 sqft
+1462928075,58360978,3855 N Southport Ave UNIT 3  Chicago  IL 60613,60613,$469000,for-sale,2 beds,2 baths,1600 sqft
+1462928075,87694062,2650 N Seminary Ave # 2  Chicago  IL 60614,60614,$474500,for-sale,2 beds,2 baths,1300 sqft
+1462928075,3714516,3732 N Pine Grove Ave APT 2BC  Chicago  IL 60613,60613,$349000,for-sale,2 beds,2 baths,1150 sqft
+1462928075,2141563663,1938 N Rockwell St  Chicago  IL 60647,60647,$440000,for-sale,5 beds,2 baths,1 sqft
+1462928075,2099237759,2133 N Campbell Ave # 1A  Chicago  IL 60647,60647,$525000,for-sale,3 beds,2.5 baths,1800 sqft
+1462928075,2123021254,3125 N Elston Ave  Chicago  IL 60618,60618,$394490,for-sale,4 beds,2 baths,-- sqft
+1462928075,2101245123,2306 N Avers Ave  Chicago  IL 60647,60647,$369000,for-sale,6 beds,2 baths,1 sqft
+1462928075,2107637518,100 E Walton St # 27EF  Chicago  IL 60611,60611,$525000,for-sale,2 beds,2 baths,1675 sqft
+1462928075,89924411,2932 N Milwaukee Ave UNIT 201  Chicago  IL 60618,60618,$339724,for-sale,3 beds,2 baths,1600 sqft
+1462928075,3670184,2713 N Avers Ave  Chicago  IL 60647,60647,$409000,for-sale,4 beds,2.5 baths,1350 sqft
+1462928075,3704274,701 W Buena Ave # 2  Chicago  IL 60613,60613,$345000,for-sale,2 beds,2 baths,1800 sqft
+1462928075,3849379,900 N Lake Shore Dr APT 503  Chicago  IL 60611,60611,$399000,for-sale,2 beds,2 baths,1179 sqft
+1462928075,2106333558,1320 N State Pkwy # 3D  Chicago  IL 60610,60610,$550000,for-sale,2 beds,2.5 baths,-- sqft
+1462928075,2131863129,3940 W Wrightwood Ave  Chicago  IL 60647,60647,$450000,for-sale,5 beds,2 baths,2500 sqft
+1462928075,3687804,1815 N Harding Ave  Chicago  IL 60647,60647,$327000,for-sale,4 beds,3 baths,1706 sqft
+1462928075,61962890,1201 W Wrightwood Ave APT 1  Chicago  IL 60614,60614,$499900,for-sale,2 beds,2 baths,1200 sqft
+1462928075,2128767132,2639 W Armitage Ave  Chicago  IL 60647,60647,$419999,for-sale,5 beds,2 baths,-- sqft
+1462928075,3718950,3200 N Lake Shore Dr APT 1010  Chicago  IL 60657,60657,$360000,for-sale,2 beds,2 baths,1250 sqft
+1462928075,62010967,2910 N River Walk Dr  Chicago  IL 60618,60618,$529900,for-sale,3 beds,2.5 baths,-- sqft
+1462928075,3712621,3328 N Kenmore Ave # 2  Chicago  IL 60657,60657,$429000,for-sale,2 beds,2 baths,-- sqft
+1462928075,87702790,3920 N Sheridan Rd APT 501  Chicago  IL 60613,60613,$499000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2099259683,3804 N Fremont St # 09152465  Chicago  IL 60613,60613,$300000,for-sale,2 beds,2 baths,1200 sqft
+1462928075,80857035,860 W Aldine Ave APT 2  Chicago  IL 60657,60657,$474900,for-sale,2 beds,2 baths,1500 sqft
+1462928075,2101435870,1655 N Monticello Ave  Chicago  IL 60647,60647,$310000,for-sale,8 beds,3 baths,-- sqft
+1462928075,3853797,1560 N Sandburg Ter APT 4001  Chicago  IL 60610,60610,$460000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2101836691,2845 W Fletcher St  Chicago  IL 60618,60618,$499000,for-sale,9 beds,4 baths,-- sqft
+1462928075,2131131955,50 E Bellevue Pl APT 405  Chicago  IL 60611,60611,$479000,for-sale,2 beds,2 baths,1400 sqft
+1462928075,80619802,3740 N Lake Shore Dr APT 7B  Chicago  IL 60613,60613,$419000,for-sale,2 beds,2.5 baths,2100 sqft
+1462928075,63696537,2625 W Cortez St # 3  Chicago  IL 60622,60622,$359900,for-sale,2 beds,2 baths,-- sqft
+1462928075,60202398,1646 W Augusta Blvd # 1  Chicago  IL 60622,60622,$539900,for-sale,3 beds,2.5 baths,2300 sqft
+1462928075,2099146263,2420 W Cortez St # 09179691  Chicago  IL 60622,60622,$439000,for-sale,3 beds,2.5 baths,2200 sqft
+1462928075,2138455490,1433 W Belmont Ave # 3  Chicago  IL 60657,60657,$520000,for-sale,3 beds,2 baths,1750 sqft
+1462928075,89959917,1443 N Washtenaw Ave APT 1R  Chicago  IL 60622,60622,$339900,for-sale,3 beds,2.5 baths,2000 sqft
+1462928075,2099161421,818 Aldine #2  Chicago  IL 60657,60657,$534900,for-sale,2 beds,2 baths,1648 sqft
+1462928075,99356659,3033 N Sheridan Rd APT 1005  Chicago  IL 60657,60657,$349000,for-sale,2 beds,2 baths,1027 sqft
+1462928075,3793768,3542 W Beach Ave  Chicago  IL 60651,60651,$399000,for-sale,5 beds,3 baths,3000 sqft
+1462928075,3645792,3321 W Warner Ave  Chicago  IL 60618,60618,$440000,for-sale,3 beds,3 baths,1446 sqft
+1462928075,2100108572,3633 N Troy St  Chicago  IL 60618,60618,$549000,for-sale,7 beds,4 baths,-- sqft
+1462928075,3666530,3941 W Dakin St  Chicago  IL 60618,60618,$499900,for-sale,3 beds,2 baths,1310 sqft
+1462928075,89930609,3140 N Sheffield Ave APT 506  Chicago  IL 60657,60657,$424000,for-sale,2 beds,2 baths,1251 sqft
+1462928075,3729867,2417 N Janssen Ave APT A  Chicago  IL 60614,60614,$439900,for-sale,2 beds,2 baths,-- sqft
+1462928075,60201619,2055 W Belmont Ave # 4  Chicago  IL 60618,60618,$449900,for-sale,2 beds,2 baths,1500 sqft
+1462928075,2100877143,4332 N St Louis Ave  Chicago  IL 60618,60618,$450000,for-sale,6 beds,3 baths,-- sqft
+1462928075,2099536339,1655 N Humboldt Blvd # 1F  Chicago  IL 60647,60647,$309000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2135693602,957 N Hamlin Ave  Chicago  IL 60651,60651,$359000,for-sale,8 beds,4 baths,-- sqft
+1462928075,2137055577,1717 N Albany Ave  Chicago  IL 60647,60647,$499000,for-sale,7 beds,4 baths,-- sqft
+1462928075,2099214207,2348 W Oakdale Ave  Chicago  IL 60618,60618,$419000,for-sale,2 beds,1.5 baths,1680 sqft
+1462928075,101491260,2901 N Halsted St APT 301  Chicago  IL 60657,60657,$524500,for-sale,2 beds,2 baths,1500 sqft
+1462928075,2099062836,4016 N Sawyer Ave  Chicago  IL 60618,60618,$459500,for-sale,4 beds,3 baths,-- sqft
+1462928075,61959363,2605 N Hamlin Ave # 1  Chicago  IL 60647,60647,$315000,for-sale,3 beds,2.5 baths,1700 sqft
+1462928075,2105904839,3034 N Hamlin Ave  Chicago  IL 60618,60618,$474000,for-sale,4 beds,2 baths,-- sqft
+1462928075,89892722,2157 W Division St APT 301  Chicago  IL 60622,60622,$519900,for-sale,2 beds,2 baths,-- sqft
+1462928075,89883580,1433 W Belmont Ave APT 2  Chicago  IL 60657,60657,$540000,for-sale,3 beds,2 baths,1750 sqft
+1462928075,87702925,3056 N Clybourn Ave APT 2N  Chicago  IL 60618,60618,$455511,for-sale,3 beds,2 baths,1750 sqft
+1462928075,80854370,2256 N Kimball Ave APT 1  Chicago  IL 60647,60647,$345000,for-sale,2 beds,3 baths,-- sqft
+1462928075,2100091171,4135 N Francisco Ave  Chicago  IL 60618,60618,$529900,for-sale,4 beds,2.5 baths,-- sqft
+1462928075,70461948,1927 W Diversey Pkwy UNIT 1B  Chicago  IL 60614,60614,$399000,for-sale,2 beds,2 baths,-- sqft
+1462928075,3645685,4102 N Drake Ave  Chicago  IL 60618,60618,$550000,for-sale,4 beds,3.5 baths,2500 sqft
+1462928075,89894486,2401 N Janssen Ave APT 303  Chicago  IL 60614,60614,$549900,for-sale,2 beds,2 baths,1400 sqft
+1462928075,70461982,2719 N Paulina St APT 3S  Chicago  IL 60614,60614,$509000,for-sale,2 beds,2 baths,-- sqft
+1462928075,2102017802,1824 N Kimball Ave  Chicago  IL 60647,60647,$499000,for-sale,8 beds,4 baths,-- sqft
+1462928075,65560252,655 W Irving Park Rd APT 2715  Chicago  IL 60613,60613,$395000,for-sale,2 beds,2 baths,1609 sqft
+1462928075,2101199328,3334 W Hutchinson St  Chicago  IL 60618,60618,$550000,for-sale,6 beds,3 baths,-- sqft
+1462928075,2101588491,4014 W Armitage Ave  Chicago  IL 60639,60639,$499000,for-sale,3 beds,2 baths,4321 sqft
+1462928075,2101146129,3941 N Christiana Ave  Chicago  IL 60618,60618,$550000,for-sale,4 beds,3 baths,-- sqft
+1462928075,2138347107,3314 W Dickens Ave  Chicago  IL 60647,60647,$499000,for-sale,5 beds,2 baths,1698 sqft
+1462928075,2122435835,1877 N Winnebago Ave  Chicago  IL 60647,60647,$499900,for-sale,3 beds,2 baths,1010 sqft
+1462928075,2126469108,1931 W Diversey Pkwy UNIT 3C  Chicago  IL 60614,60614,$339999,for-sale,2 beds,2 baths,1400 sqft
