@@ -37,6 +37,7 @@ else:
 
 
 pricePattern = re.compile('<meta itemprop="price" content="(?P<price>\$\d{1},\d{3},\d{3}|\$\d{3},\d{3}?)">')
+soldPricePattern = re.compile('Sold: <span class="">(?P<price>\$\d{1},\d{3},\d{3}|\$\d{3},\d{3}?)')
 statusPattern = re.compile('<span id="listing-icon" data-icon-class="zsg-icon-(?P<status>for-sale|recently-sold|pre-market?)"')
 metaPattern=re.compile('<span class="addr_bbs">(.*?)</span>')
 addrPattern=re.compile('zillow_fb:address" content="(?P<addr>.*?)"/>')
@@ -62,10 +63,16 @@ with  open(dataFile, "a+") as myfile, open("zpids.txt", "a+") as zpidsFile:
         sqft=""
         addr=""
         zipCode=0
-        for match in re.finditer(pricePattern, htmlContent):
-            price = match.group('price').replace(',','')
+
         for match in re.finditer(statusPattern, htmlContent):
             status = match.group('status')
+        if status=="recently-sold":
+            for match in re.finditer(soldPricePattern, htmlContent):
+                price = match.group('price').replace(',','')
+        else:
+            for match in re.finditer(pricePattern, htmlContent):
+                price = match.group('price').replace(',','')
+
         meta = re.findall(metaPattern, htmlContent)
         beds = meta[0]
         baths = meta[1]
